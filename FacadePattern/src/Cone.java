@@ -10,4 +10,22 @@ public class Cone implements Shape {
 		System.out.println("Cone: draw()");
 	}
 
+	@Override
+	public void colorShape() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void copyShapre() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void clearShape() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

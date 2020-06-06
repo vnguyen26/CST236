@@ -9,4 +9,22 @@ public class Circle implements Shape {
 		System.out.println("Cirle: draw()");
 	}
 
+	@Override
+	public void colorShape() {
+		System.out.println("Cirle: fill color");
+		
+	}
+
+	@Override
+	public void copyShapre() {
+		System.out.println("Cirle: copyy");
+		
+	}
+
+	@Override
+	public void clearShape() {
+		System.out.println("Cirle: delete");
+		
+	}
+
 }

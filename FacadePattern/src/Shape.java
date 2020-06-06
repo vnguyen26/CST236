@@ -4,4 +4,7 @@
  * */
 public interface Shape {
 	void drawShape();
+	void colorShape();
+	void copyShapre();
+	void clearShape();
 }
